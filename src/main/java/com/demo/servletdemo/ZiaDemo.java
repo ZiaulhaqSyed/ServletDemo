@@ -1,2 +1,4 @@
-package com.demo.servletdemo;public class ZiaDemo {
+package com.demo.servletdemo;
+
+public class ZiaDemo {
 }
